@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome">Welcome to Wild Code School</string>
+    <string name="checkbox">Yes, I want to be a Wilder</string>
+    <string name="button">ACCEPT</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="congrats">Congratulations</string>
+
+
+</resources>
